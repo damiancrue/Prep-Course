@@ -1,0 +1,4 @@
+for- es un bucle que nos hace recorrer todos los elementos de una lista o arreglo para poder operar individualmente en cada uno de ellos.
+&& - son operadores usados para la comparación, en esos pedimos que las condiciones sean excluyentes, es decir que se cumplan las condiciones que unimos con este operador (&&),
+|| - son operadores de (ó), usados en la comparacion pero aqui requerimos que cumpla alguna de las condiciones unidas con este operador.
+! - es un operador de negacion o sea que requerimos la negación del operador que se encuentra a continuacion, por ejemplo si a este le sigue un = requerimos que no sea igual (!=)

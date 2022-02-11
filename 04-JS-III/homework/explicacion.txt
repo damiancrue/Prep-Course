@@ -1,0 +1,1 @@
+Arrays - son conjuntos o listas de elementos que pueden guardar distintos tipos de elementos, variables numericas, cadenas o booleanos, incluso pueden contener hasta funciones u otros arrays dentro.

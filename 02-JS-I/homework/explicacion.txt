@@ -1,0 +1,6 @@
+1.
+Variable, es cualquier dato que se almacena en el codigo para poder procesarlo mas adelante. Se le asigna un nombre para poder llamarlo y utilizarlo de forma mas comoda en el futuro. Por lo general el nombre asigando esta relacionado con el contenido de datos que se almacenan en la mencionada variable.
+Strings, es un tipo de dato que puede almacenarse en una variable y pertenece a una cadena de caracteres, es decir pueden ser letras y numeros indistintamente.
+Funciones, las funciones son formulas con las que les indicamos a la computadora que debe hacer y de que manera procesar los datos recibidos (argumentos) y que necesitamos que nos devuelva como resultado (return)
+Declaraciones, es la forma en la que le indicamos a la compuradora que tome una decision, ya sea de procesar o no determinada variables y cuando dejar de hacerlo.
+Valores Booleanos, son valores que solo admiten dos posiciones, (true o false) positivo o negativo, etc
